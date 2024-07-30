@@ -26,11 +26,9 @@ I am a college student majoring in informatics engineering, aiming to find and s
 
 
 
-### 🌐 my favorite web project
+### 🌐 Web Project
 there's nothing here yet
 
-
----
 
 
 
