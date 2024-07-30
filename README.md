@@ -9,12 +9,12 @@ I am a college student majoring in informatics engineering, aiming to find and s
 
 ---
 
-<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #000;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #000;">
     <video autoplay loop muted style="width: 80%; height: auto;">
         <source src="https://github.com/user-attachments/assets/a214cbe6-1ac8-4272-9bdc-5cdd1cf112f9" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-</body>
+</div>
 
 ### 🧰 Languages and Tools
 
