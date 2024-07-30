@@ -19,9 +19,12 @@ I am a college student majoring in informatics engineering, aiming to find and s
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 ---
+
 ### 🌐 my favorite web project
 there's nothing here yet
+
 ---
+
 ### 📱 Mobile Apps
 there's nothing here yet
           
