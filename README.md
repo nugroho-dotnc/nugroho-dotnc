@@ -9,7 +9,7 @@ I am a college student majoring in informatics engineering, aiming to find and s
 
 ---
 
-<img src="https://github.com/user-attachments/assets/01611bdd-c6ff-46c1-bd51-f1bb5f601509" style="height:80%; object-fit:cover"/>
+<img src="https://github.com/user-attachments/assets/01611bdd-c6ff-46c1-bd51-f1bb5f601509" style="height:80%; object-fit:cover; align=center;"/>
 
 
 ---
