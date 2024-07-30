@@ -4,7 +4,7 @@
 
 Hi everyone! <br>
 My name is Nugroho Nur Cahyo,<br>
-but you can call me nugroho. <br>
+but you can call me Nugroho. <br>
 I am a college student majoring in informatics engineering, aiming to find and share all experiences with you via this platform.
 
 ---
@@ -15,6 +15,8 @@ I am a college student majoring in informatics engineering, aiming to find and s
         Your browser does not support the video tag.
     </video>
 </div>
+
+---
 
 ### 🧰 Languages and Tools
 
@@ -28,18 +30,18 @@ I am a college student majoring in informatics engineering, aiming to find and s
   <img alt="CSS" style="margin:10px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </p>
 
-#
+---
 
 ### 🌐 Web Projects
 
 *There are no projects here yet.*
 
-#
+---
 
 ### 📱 Mobile Apps
 
 *There are no projects here yet.*
 
-#
+---
 
 Stay tuned for more updates!
