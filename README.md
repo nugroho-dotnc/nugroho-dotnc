@@ -33,6 +33,6 @@ I am a college student majoring in informatics engineering, aiming to find and s
 
 *There are no projects here yet.*
 
----
+#
 
 Stay tuned for more updates!
