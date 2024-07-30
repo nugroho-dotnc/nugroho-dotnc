@@ -4,7 +4,8 @@
 
 
 Hi everyone! <br>
-My name is Nugroho Nur Cahyo, you can call me numnum. <br>
+My name is Nugroho Nur Cahyo,<br>
+also you can call me "kak numnum". <br>
 I am a college student majoring in informatics engineering, aiming to find and share my experiences with all of you via this platform
 
 
