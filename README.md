@@ -9,6 +9,8 @@ I am a college student majoring in informatics engineering, aiming to find and s
 
 ---
 
+https://github.com/user-attachments/assets/a214cbe6-1ac8-4272-9bdc-5cdd1cf112f9
+
 ### 🧰 Languages and Tools
 
 <p align="left">
