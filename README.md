@@ -2,18 +2,14 @@
 
 **`Aspiring Developer & Content Creator`**
 
-Hi everyone! <br>
-My name is Nugroho Nur Cahyo,<br>
-but you can call me Nugroho. <br>
+Hi everyone!  
+My name is Nugroho Nur Cahyo,  
+but you can call me Nugroho.  
 I am a college student majoring in informatics engineering, aiming to find and share all experiences with you via this platform.
 
 ---
 
-<img src="https://github.com/user-attachments/assets/01611bdd-c6ff-46c1-bd51-f1bb5f601509" style="height:80%; object-fit:cover; align=center;"/>
-
-
----
-
+</div>
 ### 🧰 Languages and Tools
 
 <p align="left">
