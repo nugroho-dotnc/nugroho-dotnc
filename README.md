@@ -5,7 +5,7 @@
 Hi everyone! <br>
 My name is Nugroho Nur Cahyo,<br>
 but you can call me nugroho. <br>
-I am a college student majoring in informatics engineering, aiming to find and share my experiences with all of you via this platform.
+I am a college student majoring in informatics engineering, aiming to find and share all experiences with you via this platform.
 
 ---
 
