@@ -9,7 +9,8 @@ I am a college student majoring in informatics engineering, aiming to find and s
 
 ---
 
-<video loop src="https://github.com/user-attachments/assets/0a1178bc-eb45-4612-9ae4-92b0516e639c">  video </video> 
+![nametag-gif](https://github.com/user-attachments/assets/01611bdd-c6ff-46c1-bd51-f1bb5f601509)
+
 
 ---
 
