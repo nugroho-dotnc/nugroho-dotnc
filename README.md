@@ -23,8 +23,6 @@ I am a college student majoring in informatics engineering, aiming to find and s
 
 #
 
-<br>
-<br>
 
 ### 🌐 Web Project
 there's nothing here yet
