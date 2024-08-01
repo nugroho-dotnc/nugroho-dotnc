@@ -32,7 +32,7 @@ I am a college student majoring in informatics engineering, aiming to find and s
 
 ### 📱 Mobile Apps
 
-*There are no projects here yet.*
+*https://github.com/nugroho-dotnc/flutter_noteapps*
 
 #
 
