@@ -1,6 +1,6 @@
 # 🏄‍♂️ Nugroho Nur Cahyo
 
-**`Aspiring Developer & Content Creator`**
+**`Aspiring Developer`**
 
 Hi everyone!  
 My name is Nugroho Nur Cahyo,  
